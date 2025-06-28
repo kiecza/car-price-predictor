@@ -1,7 +1,7 @@
 
-Prediction of the success of IPOs (Initial Public Offerings) using machine learning models, with a focus on interpretability (SHAP and XGBoost).
+Prediction of car prices based on their features.
 
 Data
-Dataset comes from Financial Modeling Prep API.
+Data scraped from Otomoto.pl.
 
 Work In Progress
